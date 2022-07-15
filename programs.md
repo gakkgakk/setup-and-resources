@@ -33,3 +33,11 @@ apt list | grep python3.10
 ```
 sudo apt install python3.10
 ```
+
+## Firefox
+
+Add-ons:
+
+* uBlock Origin
+* LeechBlock NG
+* Lastpass: Free Password Manager
