@@ -19,6 +19,7 @@ Extensions:
 * Docker
 * SQL Server?
 * Python
+* One Dark Pro++ (TPack) theme and [FiraCode font](https://github.com/tonsky/FiraCode)
 
 ## Python
 
