@@ -1,5 +1,7 @@
 # SvelteKit Project Setup
 
+Todo: add instructions for [daisyui](https://daisyui.com/)?
+
 ## Svelte
 
 `npm init svelte@next project-dir-name`
