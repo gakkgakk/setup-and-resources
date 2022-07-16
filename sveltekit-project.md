@@ -7,10 +7,14 @@ Todo: add instructions for [daisyui](https://daisyui.com/)?
 `npm init svelte@next project-dir-name`
 
 Which Svelte app template? Skeleton project
+
 Typescript? You decide
+
 ESLint? Yes
+
 Prettier? Yes
-Playwright? Yes (not sure what this is)
+
+Playwright? Not sure
 
 `cd project-dir-name & npm install`
 
