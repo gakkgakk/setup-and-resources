@@ -2,7 +2,7 @@
 
 Todo: add instructions for [daisyui](https://daisyui.com/)?
 
-## Svelte
+## Install Svelte
 
 `npm init svelte@next project-dir-name`
 
@@ -14,18 +14,26 @@ Playwright? Yes (not sure what this is)
 
 `cd project-dir-name & npm install`
 
+## Install Tailwind
+
+`npm install --save-dev tailwindcss postcss autoprefixer`
+
+## Install Supabase
+
+For backend
+
+`npm install @supabase/supabase-js`
 
 ### Folders and files to add
 
-* Layout file: `src/routes/__layout.svelte` (need to contain `<slot></slot>` for anything to show up on the website)
+#### Folders
+
 * Components folder: `src/components`
 * Stores folder: `src/stores`
-* App css file: `src/app.css
-* Postcss config: `postcss.config.cjs`
-* Tailwind config: `tailwind.config.cjs`
-* Environment file: `.env`
 
-App css:
+#### Files
+
+`src/app.css`:
 
 ```
 @tailwind base;
@@ -33,7 +41,17 @@ App css:
 @tailwind utilities;
 ```
 
-Postcss config:
+`src/routes/__layout.svelte`:
+
+```
+<script>
+    import "../app.css";
+</script>
+
+<slot></slot>
+```
+
+`postcss.config.cjs`:
 
 ```
 module.exports = {
@@ -44,7 +62,7 @@ module.exports = {
 }
 ```
 
-Tailwind config:
+`tailwind.config.cjs`:
 
 ```
 const colors = require('tailwindcss/colors')
@@ -61,13 +79,3 @@ module.exports = {
   plugins: [],
 }
 ```
-
-## Tailwind
-
-`npm install --save-dev tailwindcss postcss autoprefixer`
-
-## Supabase
-
-Backend
-
-`npm install @supabase/supabase-js`
