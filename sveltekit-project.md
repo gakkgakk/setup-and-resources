@@ -34,6 +34,7 @@ For backend
 
 * Components folder: `src/components`
 * Stores folder: `src/stores`
+* Lib folder: `src/lib` - can be accessed as `import Component from "$lib/Component.svelte"`
 
 #### Files
 
