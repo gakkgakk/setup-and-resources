@@ -1,7 +1,5 @@
 # SvelteKit Project Setup
 
-Todo: add instructions for [daisyui](https://daisyui.com/)?
-
 ## Install Svelte
 
 `npm init svelte@next project-dir-name`
@@ -32,9 +30,9 @@ For backend
 
 #### Folders
 
-* Components folder: `src/components`
-* Stores folder: `src/stores`
 * Lib folder: `src/lib` - can be accessed as `import Component from "$lib/Component.svelte"`
+* Components folder: `src/lib/components`
+* Stores folder: `src/lib/stores`
 
 #### Files
 
