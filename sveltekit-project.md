@@ -20,11 +20,31 @@ Playwright? Not sure
 
 `npm install --save-dev tailwindcss postcss autoprefixer`
 
-## Install Supabase
+## Backend
+
+### Alternative 1. Install supabase
+
+[Supabase](https://supabase.com/) is a (serverless?) database with a graphical UI. It let's you quickly setup and use a new SQL database.
 
 For backend
 
 `npm install @supabase/supabase-js`
+
+### Alternative 2. Install strapi
+
+[Strapi](https://strapi.io/) is a headless cms with a graphical UI for configuring concepts/models and generating content.
+
+Note: setup strapi in its own project folder. It will run on its own server.
+
+`npx create-strapi-app <strapi project name> --quickstart`
+
+If you'd like to use graphql:
+
+`cd <strapi project name> & npm run strapi install graphql`
+
+### Alternative 3. Install strapi and host it on supabase?
+
+Todo
 
 ### Folders and files to add
 
