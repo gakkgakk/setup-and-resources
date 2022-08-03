@@ -11,7 +11,9 @@ This is a list of recommended programs to install on ubuntu for travbula develop
 
 ## VSCode
 
-Extensions:
+### VSCode Extensions
+
+*General*
 
 * Gitlens
 * Vim
@@ -20,6 +22,12 @@ Extensions:
 * SQL Server?
 * Python
 * One Dark Pro++ (TPack) theme and [FiraCode font](https://github.com/tonsky/FiraCode)
+
+*Frontend*
+
+* Auto Rename Tag
+* CSS Peek
+* Prettier - Code formatter
 
 ## Python
 
