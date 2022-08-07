@@ -1,3 +1,3 @@
 # Div Setup Help
 
-This repository contains mostly tutorials and tool-suggestions written so they are remembered for later
+This repository is mostly meant for use for help and suggestions with development for travbula projects. It contains mostly tutorials about setting up stuff and tool/software-suggestions.
