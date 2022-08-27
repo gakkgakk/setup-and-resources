@@ -38,7 +38,7 @@ Playwright? Not sure
 @tailwind utilities;
 ```
 
-`src/routes/__layout.svelte`:
+`src/routes/+layout.svelte`:
 
 ```
 <script>
