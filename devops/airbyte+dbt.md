@@ -2,13 +2,35 @@
 
 steg 1: klon airbyte repo
 
+```
+git clone https://github.com/airbytehq/airbyte.git
+```
+
+Gå inn i repo-mappen og kjør
+
 `docker compose up`
 
 ferdig
 
 ## dbt-core
 
-klon dbt repo
+installasjon av dbt for postgres:
+
+```
+python3 -m venv .venv
+```
+
+```
+source .venv/bin/activate
+```
+
+```
+python3 -m pip install dbt-postgres
+```
+
+```
+dbt init
+```
 
 installasjon for sql server: https://docs.getdbt.com/reference/warehouse-profiles/mssql-profile
 
