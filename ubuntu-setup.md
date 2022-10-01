@@ -18,11 +18,15 @@ This is a list of recommended programs to install on ubuntu for travbula develop
 
 * Gitlens
 * Vim
-* VSpaceCode
-* Docker
+* [VSpaceCode](https://github.com/VSpaceCode/VSpacecode.git): spacemacs-like keybindings for vscode
+* [Docker](https://github.com/microsoft/vscode-docker)
 * SQL Server?
 * Python
 * One Dark Pro++ (TPack) theme and [FiraCode font](https://github.com/tonsky/FiraCode)
+* [VS Browser](https://github.com/Phu1237/vscode-vs-browser.git): integrated web browser
+* [Postcode](https://github.com/rohinivsenthil/postcode): postman-like API client
+* [dbt Power User](https://github.com/innoverio/vscode-dbt-power-user.git)
+* [Remote - SSH](https://github.com/Microsoft/vscode-remote-release)
 
 *Frontend*
 
