@@ -48,6 +48,12 @@ dbt init
 * installasjon for sql server: https://docs.getdbt.com/reference/warehouse-profiles/mssql-profile
 * vs code plugin: https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user
 
+## Dagster
+
+Tutorial med dagster, airbyte og dbt: https://airbyte.com/tutorials/orchestrate-data-ingestion-and-transformation-pipelines
+
+Videodemo: https://www.youtube.com/watch?v=oOOuQQsnPTM
+
 ## Koble til en server fra vs code
 
 https://code.visualstudio.com/docs/remote/ssh
