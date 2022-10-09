@@ -28,6 +28,49 @@ This is a list of recommended programs to install on ubuntu for travbula develop
 * [dbt Power User](https://github.com/innoverio/vscode-dbt-power-user.git)
 * [Remote - SSH](https://github.com/Microsoft/vscode-remote-release)
 
+### VSCode Settings
+
+For python, enable formatting on save with black. In the workspace's `.vscode/settings.json`, include the following:
+
+```json
+{
+    "files.associations": {
+        "**/<dbt-project-dir>/**/*.yaml": "jinja-yaml",
+        "**/<dbt-project-dir>/**/*.yml": "jinja-yaml",
+        "**/<dbt-project-dir>/**/*.sql": "jinja-sql",
+        "**/<dbt-project-dir>/**/docs/**/*.md": "jinja-md"
+    }
+}
+```
+
+For dbt, enable file associations to jinja-stuff. In the workspace's `.vscode/settings.json`, include the following:
+
+```json
+{
+    "[python]": {
+        "editor.formatOnSave": true
+    }
+}
+```
+
+And then when asked which formatter to use, choose black.
+
+Note that the `settings.json` file is only one json, so if you'd like to have both of the stuff above active at the same time it would look as follows:
+
+```json
+{
+    "files.associations": {
+        "**/<dbt-project-dir>/**/*.yaml": "jinja-yaml",
+        "**/<dbt-project-dir>/**/*.yml": "jinja-yaml",
+        "**/<dbt-project-dir>/**/*.sql": "jinja-sql",
+        "**/<dbt-project-dir>/**/docs/**/*.md": "jinja-md"
+    },
+    "[python]": {
+        "editor.formatOnSave": true
+    }
+}
+```
+
 *Frontend*
 
 * Auto Rename Tag
