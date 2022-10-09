@@ -30,7 +30,7 @@ This is a list of recommended programs to install on ubuntu for travbula develop
 
 ### VSCode Settings
 
-For python, enable formatting on save with black. In the workspace's `.vscode/settings.json`, include the following:
+For dbt, enable file associations to jinja-stuff. In the workspace's `.vscode/settings.json`, include the following:
 
 ```json
 {
@@ -43,7 +43,7 @@ For python, enable formatting on save with black. In the workspace's `.vscode/se
 }
 ```
 
-For dbt, enable file associations to jinja-stuff. In the workspace's `.vscode/settings.json`, include the following:
+For python, enable formatting on save with black. In the workspace's `.vscode/settings.json`, include the following:
 
 ```json
 {
