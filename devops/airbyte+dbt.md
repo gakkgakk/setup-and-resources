@@ -40,18 +40,14 @@ python3 -m pip install dbt-postgres
 dbt init
 ```
 
-installasjon for sql server: https://docs.getdbt.com/reference/warehouse-profiles/mssql-profile
-
-https://docs.getdbt.com/guides/getting-started/learning-more/getting-started-dbt-core
-
-vs code plugin: https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user
-
-## Koble til server fra vs code
-
-https://code.visualstudio.com/docs/remote/ssh
-
 ### Div dbt ressurser
 
 * [dbt fundamentals videokurs](https://courses.getdbt.com/courses/fundamentals): veldig bra for introduksjon til dbt
 * [getting started with dbt cloud](https://docs.getdbt.com/guides/getting-started): hjelp for å konfigurasjon mot cloud-løsningen
 * [getting started with dbt core](https://docs.getdbt.com/guides/getting-started/learning-more/getting-started-dbt-core): hjelp for konfigurasjon med open source-løsningen
+* installasjon for sql server: https://docs.getdbt.com/reference/warehouse-profiles/mssql-profile
+* vs code plugin: https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user
+
+## Koble til en server fra vs code
+
+https://code.visualstudio.com/docs/remote/ssh
