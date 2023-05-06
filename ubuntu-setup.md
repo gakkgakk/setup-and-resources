@@ -7,8 +7,8 @@ This is a list of recommended programs to install on ubuntu for travbula develop
 * [DBeaver (database GUI)](https://dbeaver.io/download/): `sudo snap install dbeaver-ce`
 * [Docker](https://docs.docker.com/engine/install/ubuntu/) & [Docker-postinstall](https://docs.docker.com/engine/install/linux-postinstall/)
 * [python](https://cloudbytes.dev/snippets/upgrade-python-to-latest-version-on-ubuntu-linux)
-* [fzf](https://github.com/junegunn/fzf)
-* [nvm - see option 3](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
+* [fzf - can also be installed with install.sh script](https://github.com/junegunn/fzf)
+* [nvm - see option 3 in link or use install.sh script](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
 
 ## VSCode
 
