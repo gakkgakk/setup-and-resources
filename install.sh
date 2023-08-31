@@ -6,7 +6,7 @@
 #
 ###########
 
-# install nvm
+# install nvm (see https://github.com/nvm-sh/nvm/releases for latest version)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 source ~/.bashrc
 
