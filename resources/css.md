@@ -8,6 +8,12 @@
 
 A nice explanation of CSS concepts if you already are a little bit familiar with HTML and CSS.
 
+### Learn CSS
+
+[Learn CSS](https://web.dev/learn/css/)
+
+This course breaks down the fundamentals of CSS into digestible, easy to understand pieces.
+
 ## Tailwind
 
 ### Cheat Sheet
