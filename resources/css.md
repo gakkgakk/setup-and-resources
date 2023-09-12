@@ -14,6 +14,12 @@ A nice explanation of CSS concepts if you already are a little bit familiar with
 
 This course breaks down the fundamentals of CSS into digestible, easy to understand pieces.
 
+### Flexbox Froggy
+
+[Flexbox Froggy](https://flexboxfroggy.com/)
+
+Learn Flexbox with a frogger style game?
+
 ## Tailwind
 
 ### Cheat Sheet
