@@ -7,3 +7,5 @@
 [HTML & CSS is hard](https://internetingishard.netlify.app/html-and-css/): 'A friendly web development tutorial for complete beginners'
 
 [MaintainableCSS](https://maintainablecss.com/chapters/introduction/): 'MaintainableCSS is an approach to writing modular, scalable and maintainable CSS for small and large codebases. You can learn it in 20 minutes and implement it immediately in your project.'
+
+[web.dev Learn](https://web.dev/learn): 'Explore our growing collection of courses on key web design and development subjects. An industry expert has written each course, helped by members of the Chrome team. Follow the modules sequentially, or dip into the topics you most want to learn about. '
