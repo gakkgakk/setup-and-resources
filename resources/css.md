@@ -22,7 +22,13 @@ This course breaks down the fundamentals of CSS into digestible, easy to underst
 
 [Flexbox Froggy](https://flexboxfroggy.com/)
 
-Learn Flexbox with a frogger style game?
+Learn Flexbox with a frogger style game
+
+### CSS Diner
+
+[CSS Diner](https://flukeout.github.io/)
+
+Learn CSS selectors
 
 ## Tailwind
 
