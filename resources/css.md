@@ -1,37 +1,13 @@
 # CSS Resources
 
-## CSS
+[Interactive explanation of the cascade in CSS](https://2019.wattenberger.com/blog/css-cascade)
 
-### Coding
-
-[Maintainable CSS](https://maintainablecss.com/chapters/introduction/)
-
-### Overview of CSS Concepts
+[Maintainable CSS coding style](https://maintainablecss.com/chapters/introduction/)
 
 [Overview of CSS Concepts](https://www.taniarascia.com/overview-of-css-concepts/)
 
-A nice explanation of CSS concepts if you already are a little bit familiar with HTML and CSS.
+[MDN Learn CSS](https://web.dev/learn/css/)
 
-### Learn CSS
+[Flexbox Froggy CSS game](https://flexboxfroggy.com/)
 
-[Learn CSS](https://web.dev/learn/css/)
-
-This course breaks down the fundamentals of CSS into digestible, easy to understand pieces.
-
-### Flexbox Froggy
-
-[Flexbox Froggy](https://flexboxfroggy.com/)
-
-Learn Flexbox with a frogger style game
-
-### CSS Diner
-
-[CSS Diner](https://flukeout.github.io/)
-
-Learn CSS selectors
-
-## Tailwind
-
-### Cheat Sheet
-
-[Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+[CSS Diner specificity game](https://flukeout.github.io/)
