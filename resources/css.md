@@ -10,4 +10,4 @@
 
 [Flexbox Froggy CSS game](https://flexboxfroggy.com/)
 
-[CSS Diner specificity game](https://flukeout.github.io/)
+[CSS Diner selector game](https://flukeout.github.io/)
