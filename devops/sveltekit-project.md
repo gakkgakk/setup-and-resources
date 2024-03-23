@@ -2,11 +2,11 @@
 
 ## Install Svelte
 
-`npm init svelte@next project-dir-name`
+`npm create svelte@latest project-dir-name`
 
 Which Svelte app template? Skeleton project
 
-Typescript? You decide
+Typescript? Yes
 
 ESLint? Yes
 
