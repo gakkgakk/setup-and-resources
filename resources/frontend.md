@@ -21,3 +21,7 @@
 [Flexbox Froggy CSS game](https://flexboxfroggy.com/)
 
 [CSS Diner selector game](https://flukeout.github.io/)
+
+[Flexbox Zombies (learn flexbox through a game, this made flexbox click for me)](https://mastery.games/flexboxzombies/)
+
+[Grid Critters (same guy that is behind flexbox zombies)](https://gridcritters.com/)
