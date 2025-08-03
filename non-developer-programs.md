@@ -13,3 +13,7 @@ Some sites demand this during authentication, [authy](https://authy.com/) works 
 ## Note taking
 
 [Logseq](https://logseq.com/) is free and pretty good. Takes some time to learn.
+
+## Project management
+
+[Basecamp](https://basecamp.com/). This is a web app so nothing to do with ubuntu, but put it here anyway. I really like it.
